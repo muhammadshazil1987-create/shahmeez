@@ -1,0 +1,6 @@
+{
+  "name": "شاہ میز",
+  "description": "Full-stack E-Commerce storefront and administrative dashboard integrating real-time stock sync with Nimbus POS, featuring automated variant generation and robust offline fallbacks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
